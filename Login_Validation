@@ -1,0 +1,9 @@
+if(Username="email" or username="phonenumber")
+{
+Print("Login Successful");
+}
+
+else
+{
+Print("Login Failed");
+}
