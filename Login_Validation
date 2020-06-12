@@ -1,4 +1,4 @@
-if(Username="email" or username="phonenumber")
+if(Username="email" or username="phonenumber" or username="EMPID")
 {
 Print("Login Successful");
 }
