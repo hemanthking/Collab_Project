@@ -1,4 +1,4 @@
-if(Username="email" or username="phonenumber" or username="EMPID")
+if(Username="email" or username="phonenumber")
 {
 Print("Login Successful");
 print("Navigate to Homepage");
